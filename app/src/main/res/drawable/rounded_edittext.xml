@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E0E0E0" /> <!-- Boja pozadine -->
+    <corners android:radius="185dp" /> <!-- Zakrivljenost ivica -->
+    <padding android:left="20dp" android:right="10dp" />
+</shape>
