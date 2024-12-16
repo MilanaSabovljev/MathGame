@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269759251391",
+    "project_id": "math-miners-app",
+    "storage_bucket": "math-miners-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269759251391:android:4eab1bb91f5794aa23d70a",
+        "android_client_info": {
+          "package_name": "com.example.igraracunanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAPbaL3siu-CN_BEUnl5kzocMnxN46ub0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
