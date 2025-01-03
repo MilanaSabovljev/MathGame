@@ -1,0 +1,20 @@
+<resources>
+    <!-- Stil za osnovni TextAppearance -->
+    <style name="TextAppearance">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Stil za naslov -->
+    <style name="TextAppearance.CustomTitle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Stil za telo teksta -->
+    <style name="TextAppearance.CustomBody">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

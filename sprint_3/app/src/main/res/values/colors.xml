@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="input">#DCE1E7</color>
+    <color name="logout">#bcceeb</color>
+    <color name="inputText">#7e7e7e</color>
+    <color name="transparent">#4d0882</color>
+    <color name="score">#b043d1</color>
+    <color name="lightBlue">#175fd4</color>
+    <color name="darkBlue">#0710b8</color>
+    <color name="light">#e6dff5</color>
+    <color name="notification_color">#FF4081</color> <!-- Dodato za Firebase notifikacije -->
+</resources>
